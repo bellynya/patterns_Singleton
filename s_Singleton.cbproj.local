@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.410,=D:\rad studio\saves\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,=D:\rad studio\saves\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=D:\rad studio\saves\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\Singleton.cpp=D:\rad studio\saves\Singleton.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,D:\rad studio\saves\Main.h=D:\rad studio\saves\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,D:\rad studio\saves\Singleton.h=D:\rad studio\saves\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\Main.h=D:\rad studio\saves\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,D:\rad studio\saves\Singleton.cpp=D:\rad studio\saves\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\Singleton.h=D:\rad studio\saves\Singleton.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\Project1PCH1.h=D:\rad studio\saves\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\Main.cpp=D:\rad studio\saves\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,=D:\rad studio\saves\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=D:\rad studio\saves\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,=D:\rad studio\saves\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,=D:\rad studio\saves\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,D:\rad studio\saves\Main.dfm=D:\rad studio\saves\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\s_Singleton.cbproj=D:\rad studio\saves\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\Main.dfm=D:\rad studio\saves\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\s_SingletonPCH1.h=D:\callэжд\Программирование\Четвертый курс\конструирование пз\singleton\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,D:\rad studio\saves\Main.cpp=D:\rad studio\saves\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
