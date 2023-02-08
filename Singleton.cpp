@@ -8,8 +8,6 @@
 
 void Document::PSaveToFile(AnsiString text)
 {
-	std::string str = "myFile.txt";
-
 	ofstream fout;
 
 	fout.open(str, std::fstream::app);
