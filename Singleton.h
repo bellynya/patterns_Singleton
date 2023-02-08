@@ -19,6 +19,7 @@ public:
 	static void SaveToFile(AnsiString str){ Get().PSaveToFile(str); }
 private:
 	Document(){}
+	std::string str = "myFile.txt";
 
 	void PSaveToFile(AnsiString text);
 
